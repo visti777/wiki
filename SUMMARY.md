@@ -90,5 +90,5 @@
   * [Участие в вики](uchastie-v-viki-golosa.md)
   * [Контакты](kontakti.md)
   * [История](istoriya.md)
-* [test test test! ](test-test-test.md)
+* [test test test!](test-test-test.md)
 
